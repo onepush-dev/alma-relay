@@ -8,7 +8,7 @@ This repository packages the official [Alma Relay](https://github.com/yetone/alm
 
 ## What you get
 
-- One stateless service from `ghcr.io/onepush-dev/alma-relay:1.4.0` (upstream image unmodified, listening dual-stack on 8787) behind Railway HTTPS with WebSockets/SSE.
+- One stateless service from `ghcr.io/onepush-dev/alma-relay:1.4.0` (upstream image unmodified, listening dual-stack on `$PORT` = 8080) behind Railway HTTPS with WebSockets/SSE.
 - **`RELAY_REGISTRATION_KEY`** generated per deploy: only desktops that present it can register, so strangers can't use your relay.
 - `/healthz` health check. Nothing is written to disk.
 
