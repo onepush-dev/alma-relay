@@ -2,7 +2,7 @@
 
 Alma Relay — your own relay for Alma Remote Access: reach the Alma on your desktop from the Alma app on your phone, from anywhere, end-to-end encrypted. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/VrnHqH)
 
 This repository packages the official [Alma Relay](https://github.com/yetone/alma-relay) image (`ghcr.io/yetone/alma-relay:1.4.0`, MIT) for Railway. It is an independent community packaging, not affiliated with or endorsed by Alma or its author.
 
